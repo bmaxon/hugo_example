@@ -8,6 +8,7 @@ paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
+publishDir              = "../brendanmaxon_public"
 disableLanguages        = []
 
 [markup.goldmark.renderer]
