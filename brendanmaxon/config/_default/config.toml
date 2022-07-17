@@ -7,6 +7,7 @@ copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all r
 paginate = 10
 theme = "hugo-clarity"
 disqusShortname = ""
+publishDir              = "../brendanmaxon_public"
 
 DefaultContentLanguage = "en"
 # [languages]
