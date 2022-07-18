@@ -1,6 +1,8 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://www.brendanmaxon.com/"
+baseURL                 = "https://www.brendanmaxon.com/"
+relativeURLs            = true
+uglyURLs                = true
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
 theme                   = "hugo-future-imperfect-slim"
